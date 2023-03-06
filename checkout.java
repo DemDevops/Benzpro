@@ -1,3 +1,4 @@
 quick check out
 easy webpage
 integrated pulls
+bug has been removed
